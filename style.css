@@ -1,0 +1,8 @@
+body{
+    background-color: blueviolet;
+}
+#myCanvas{
+border-width: 10px;
+border-style: ridge;
+background-color: cornflowerblue;
+}
